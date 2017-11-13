@@ -3,7 +3,7 @@
 
 OCTOBOS learning accompanies the following publications: 
 
-1. "Structured overcomplete sparsifying transform learning with convergence guarantees and applications", International Journal of Computer Vision (IJCV), 2016. [IJCV 2016](http://link.springer.com/article/10.1007/s11263-014-0761-1), [PDF available](http://transformlearning.csl.illinois.edu/assets/Sai/JournalPapers/SaiBihanIJCV2014OCTOBOS.pdf)
+1. "Structured overcomplete sparsifying transform learning with convergence guarantees and applications", International Journal of Computer Vision (IJCV), 2015. [IJCV 2015](http://link.springer.com/article/10.1007/s11263-014-0761-1), [PDF available](http://transformlearning.csl.illinois.edu/assets/Sai/JournalPapers/SaiBihanIJCV2014OCTOBOS.pdf)
 
 2. "Learning overcomplete sparsifying transforms with block cosparsity", Proc. IEEE International Conference on Image Processing (ICIP), 2014. [ICIP 2014](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7025161), [PDF available](http://transformlearning.csl.illinois.edu/assets/Sai/ConferencePapers/SaiBihanICIP2014OCTOBOS.pdf), [Slides](http://transformlearning.csl.illinois.edu/assets/Sai/ConferenceSlidesandPosters/SaiBihanICIP2014OCTOBOS_slides.pdf)
 
@@ -14,13 +14,13 @@ OCTOBOS is a formulation and an algorithm that adaptively learns a structured ov
 
 The OCTOBOS package includes (1) a collection of the SALT Matlab functions, and (2) example demo data used in the OCOTOBOS paper including image denoising, reconstruction, and texture segmentation.
 
-You can download our other software packages at: [Transform Learning Site](http://transformlearning.csl.illinois.edu/).
+You can download our other software packages at: [My Homepage](http://web.engr.illinois.edu/~bwen3/) and [Transform Learning Site](http://transformlearning.csl.illinois.edu/).
 
 Paper
 
 In case of use, please cite our publications:
 
-1. B. Wen, S. Ravishankar, and Y. Bresler. "Structured overcomplete sparsifying transform learning with convergence guarantees and applications." International Journal of Computer Vision (IJCV), pp. 1-31, 2014.
+1. B. Wen, S. Ravishankar, and Y. Bresler. "Structured overcomplete sparsifying transform learning with convergence guarantees and applications." International Journal of Computer Vision (IJCV), vol. 114, no. 2-3, pp. 137-167, 2015.
 
 ```
 @article{wen2015octobos,
