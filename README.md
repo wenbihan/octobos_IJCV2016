@@ -1,11 +1,11 @@
 # OCTOBOS learning and applications
 =============
 
-OCTOBOS learning accompanies the following publication: 
+OCTOBOS learning accompanies the following publications: 
 
 1. "Structured overcomplete sparsifying transform learning with convergence guarantees and applications", International Journal of Computer Vision (IJCV), 2016. [IJCV 2016](http://link.springer.com/article/10.1007/s11263-014-0761-1), [PDF available](http://transformlearning.csl.illinois.edu/assets/Sai/JournalPapers/SaiBihanIJCV2014OCTOBOS.pdf)
 
-2. "Learning overcomplete sparsifying transforms with block cosparsity", Proc. IEEE International Conference on Image Processing (ICIP), 2014. [ICIP 2014](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7025161), [PDF available](http://transformlearning.csl.illinois.edu/assets/Sai/ConferencePapers/SaiBihanICIP2014OCTOBOS.pdf), [Slides] (http://transformlearning.csl.illinois.edu/assets/Sai/ConferenceSlidesandPosters/SaiBihanICIP2014OCTOBOS_slides.pdf)
+2. "Learning overcomplete sparsifying transforms with block cosparsity", Proc. IEEE International Conference on Image Processing (ICIP), 2014. [ICIP 2014](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7025161), [PDF available](http://transformlearning.csl.illinois.edu/assets/Sai/ConferencePapers/SaiBihanICIP2014OCTOBOS.pdf), [Slides](http://transformlearning.csl.illinois.edu/assets/Sai/ConferenceSlidesandPosters/SaiBihanICIP2014OCTOBOS_slides.pdf)
 
 Description:
 -----
@@ -20,9 +20,8 @@ Paper
 
 In case of use, please cite our publications:
 
-B. Wen, S. Ravishankar, and Y. Bresler. "Structured overcomplete sparsifying transform learning with convergence guarantees and applications." International Journal of Computer Vision (IJCV), pp. 1-31, 2014.
+1. B. Wen, S. Ravishankar, and Y. Bresler. "Structured overcomplete sparsifying transform learning with convergence guarantees and applications." International Journal of Computer Vision (IJCV), pp. 1-31, 2014.
 
-Bibtex:
 ```
 @article{wen2015octobos,
   title={Structured overcomplete sparsifying transform learning with convergence guarantees and applications},
@@ -36,9 +35,8 @@ Bibtex:
 }
 ```
 
-B. Wen, S. Ravishankar, and Y. Bresler. “Learning overcomplete sparsifying transforms with block cosparsity." IEEE International Conference on Image Processing (ICIP), pp. 803-807, 2014.
+2. B. Wen, S. Ravishankar, and Y. Bresler. “Learning overcomplete sparsifying transforms with block cosparsity." IEEE International Conference on Image Processing (ICIP), pp. 803-807, 2014.
 
-Bibtex:
 ```
 @inproceedings{wen2014octobos,
   title={Learning overcomplete sparsifying transforms with block cosparsity},
